@@ -5,5 +5,5 @@ my kawaii drawn tech logos
 - [ ] SQL
 - [ ] Academ
 - [ ] Bouncer
-- [ ] Swiftinsg?
+- [ ] Swiftinsg?<br>
 you can use them ig
