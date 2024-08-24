@@ -6,3 +6,4 @@ my kawaii drawn tech logos
 - [ ] Academ
 - [ ] Bouncer
 - [ ] Swiftinsg?
+you can use them ig
